@@ -17,8 +17,8 @@ I am a graphic and media designer with a strong background in *illustration, bra
     * Procreate, Axure, Figma, Blender.
 
 ## Contact Me:
+<a href="https://www.instagram.com/grafityldesign/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/></a>
 
-[Instagram](https://www.instagram.com/grafityldesign/)
 <a href="https://www.linkedin.com/in/rafael-lugo-grafityldesign/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ![Logo grafityldesign](https://scontent-fra3-1.cdninstagram.com/v/t51.2885-19/924046_916927518387205_210825986_a.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby43NTAuYzIifQ&_nc_ht=scontent-fra3-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2QHwiCGkCLsxHxfp3tXmbebuItxTZzuJfXpW2py6BNAF3F_MqsHPxdtThqAfVvZxutg&_nc_ohc=QO6TD6nA_3gQ7kNvwH8GvWo&_nc_gid=sldQu41KM0SwYGniNWOK-A&edm=AE-LrgUBAAAA&ccb=7-5&oh=00_AfaFvN-Qmd0a8tuP_xIyO0wN4Ijh4mjh-qxIdk6WXt4dyQ&oe=68D1AC08&_nc_sid=8353fa "Logo grafityldesign")
