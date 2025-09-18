@@ -3,6 +3,10 @@ I’m currently learning how to work in The Matrix and hopefuly be like Neo one 
 
 Here you will find details of any project I am working on.
 
+## About me:
+
+I am a graphic and media designer with a strong background in *illustration, branding, and visual communication*. Over the years, I have worked on creative projects ranging from brochures and logos to animations and motion design. Currently, I am expanding my skills through further training in **web development**, combining design expertise with technical knowledge to create modern and user-friendly digital solutions.
+
 <!--
 **Rafael-Lugo/Rafael-Lugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
